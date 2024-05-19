@@ -1,4 +1,4 @@
-### Hi there 👋
+### this is a pygame maze generator, the best option is to open it by vs code
 
 <!--
 **Bill102112/bill102112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
